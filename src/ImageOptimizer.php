@@ -13,7 +13,7 @@ use Exception;
  * @license MIT
  * 
  * ImageOptimizer is a library to compress images via the API resmush.it
- * README : https://github.com/jensone/image-optimizer
+ * README : https://github.com/jensone/image-compressor
  * Documentation : https://api.resmush.it/
  */
 class ImageOptimizer
