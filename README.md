@@ -2,7 +2,7 @@
 
 ![banner](banner.png)
 
-Image Optimizer is a PHP library to compress images via the API resmush.it.
+Image Compressor is a PHP library to compress images via the API resmush.it.
 
 
 ## Installation
@@ -10,7 +10,7 @@ Image Optimizer is a PHP library to compress images via the API resmush.it.
 Install the library via Composer:
 
 ```bash
-composer require jensone/image-optimizer
+composer require jensone/image-compressor
 ```
 
 ## Usage
