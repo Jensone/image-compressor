@@ -1,4 +1,4 @@
-# Image Optimizer
+# Image Compressor
 
 ![banner](banner.png)
 
