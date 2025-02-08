@@ -1,6 +1,6 @@
 {
     "name": "jensone/image-optimizer",
-    "description": "Compression d'images via l'API resmush.it",
+    "description": "A PHP library to compress images using the resmush.it API.",
     "type": "library",
     "require": {
         "php": "^7.4|^8.0",
