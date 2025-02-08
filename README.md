@@ -51,13 +51,7 @@ The available options are:
 - `quality`: the quality of the compressed image (default: 92)
 - `timeout`: the timeout in seconds for the API call (default: 30)
 
-## Tests
-
-To run the tests, run the following command:
-
-```bash
-composer test
-```
+---
 
 ## License
 
